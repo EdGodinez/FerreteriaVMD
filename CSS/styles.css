@@ -219,6 +219,15 @@ img {
   max-width: 100%;
 }
 
+.content_logos{
+  display: flex;
+  justify-content: center;
+}
+
+.empLogo{
+  margin: 25px;
+}
+
 .testimonial {
   background: #f7f7f7;;
 }
