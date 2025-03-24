@@ -6,7 +6,6 @@
 ## Tecnologías Utilizadas
 - **HTML**: Estructura del contenido.
 - **CSS**: Estilizado y diseño visual.
-- **JavaScript** (si corresponde): Interactividad y dinámica.
 
 ## Estructura del Proyecto
 ```
